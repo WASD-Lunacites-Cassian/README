@@ -2,6 +2,8 @@
 "Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
 <div align="center">
 
+[![Pronouns](https://img.shields.io/badge/Pronouns-WASD-ff69b4?style=for-the-badge)](https://pronouns.cc/@WASD)
+
 ## About
 # Personality (MBTI)   
 **ENFJ** – The Protagonist 
