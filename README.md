@@ -17,7 +17,7 @@
 **Judging (J):** 16% ▓▓░░░░░░░░░░░░
 
 -------------------
-<h1 align="center" style="color:gold;"># Favorite color: Gold</h1>
+[![Favorite Color: Gold](https://img.shields.io/badge/Favorite%20Color-Gold-FFD700?style=for-the-badge)](#)
 -------------------
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxcXg4bHZkOWRwb2Q1eXh3aG9tNDhuanZrdDFodGpxNWpwdjd3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgxY4eMijhmPgm4/giphy.gif" alt="gold sparkle" width="50"/>
