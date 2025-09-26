@@ -1,43 +1,36 @@
 # READ ME
-
-> “Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
-
+"Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
 <div align="center">
 
 [![Pronouns](https://img.shields.io/badge/Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
 
----
-
 ## About
+# Personality (MBTI)   
+**ENFJ** – The Protagonist 
 
----
+**Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
 
-## Personality (MBTI)   
-**ENFJ** – The Protagonist  
+**Intuitive (N):** 25% ▓▓▓▓▓░░░░░░░░░
 
-- **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░  
-- **Intuitive (N):** 25% ▓▓▓▓▓░░░░░░░░░  
-- **Feeling (F):** 19% ▓▓▓░░░░░░░░░░░  
-- **Judging (J):** 16% ▓▓░░░░░░░░░░░░  
+**Feeling (F):** 19% ▓▓▓░░░░░░░░░░░
 
----
+**Judging (J):** 16% ▓▓░░░░░░░░░░░░
 
-## Favorite Color
-**Gold** ✨  
+-------------------
+# Favorite color: Gold
+-------------------
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxcXg4bHZkOWRwb2Q1eXh3aG9tNDhuanZrdDFodGpxNWpwdjd3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgxY4eMijhmPgm4/giphy.gif" alt="gold sparkle" width="50"/>
 </p>
 
----
-
-## Contact
-Only Available Through PonyTown  
-<p align="center">
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-</p>
+# Contact
+Only Avaliable Through PonyTown
+-------------------
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+-------------------
 
 </div>
 
 -----
 
-_Last Edited on: 09/25/2025_
+Last Edited on: 09/25/2025
