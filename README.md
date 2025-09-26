@@ -4,7 +4,7 @@
 
 [![Click for Pronouns](https://img.shields.io/badge/Click%20for%20Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
 
-## About
+
 # Personality (MBTI)   
 **ENFJ** – The Protagonist 
 
