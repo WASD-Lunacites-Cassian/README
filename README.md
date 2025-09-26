@@ -3,7 +3,7 @@
 <div align="center">
 
 ## About
-## Personality (MBTI)
+# Personality (MBTI)
 **ENFJ** – The Protagonist ✨
 
 - **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
@@ -22,7 +22,6 @@ Only Avaliable Through PonyTown
 
 -------------------
 
-![WASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![WASD's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&include_all_commits=true&count_private=true)
 
