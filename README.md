@@ -5,6 +5,9 @@
 ## About
 # Personality (MBTI)   
 **ENFJ** – The Protagonist 
+<p align="center">
+  ![gold sparkle](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+</p>
 
  **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
  
