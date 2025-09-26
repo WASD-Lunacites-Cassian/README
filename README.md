@@ -3,7 +3,7 @@
 <div align="center">
 
 ## About
-# Personality (MBTI)
+# Personality (MBTI)   <img src="./tiny-gold.gif" alt="sparkle" width="30"/>
 **ENFJ** – The Protagonist 
 
  **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
