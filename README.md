@@ -4,7 +4,7 @@
 
 ## About
 # Personality (MBTI)
-**ENFJ** – The Protagonist ✨
+**ENFJ** – The Protagonist ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
  **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
  
@@ -22,8 +22,6 @@ Only Avaliable Through PonyTown
 
 -------------------
 
-
-![WASD's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
 
