@@ -3,7 +3,7 @@
 <div align="center">
 
 ## About
-# Personality (MBTI)   <img src="./tiny-gold.gif" alt="sparkle" width="30"/>
+# Personality (MBTI)   
 **ENFJ** – The Protagonist 
 
  **Extravert (E):** 59% ▓▓▓▓▓▓▓▓▓▓░░░░░
@@ -16,7 +16,7 @@
 
 -------------------
 
-## Contact
+ Contact
 Only Avaliable Through PonyTown
 -------------------
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
