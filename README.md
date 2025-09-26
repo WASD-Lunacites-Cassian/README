@@ -17,8 +17,11 @@
 **Judging (J):** 16% ▓▓░░░░░░░░░░░░
 
 -------------------
-# Favorite color: Gold ✨
-![gold sparkle](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3cWhvZTRhNWptOHN2bGRyYm9neXMwYXY3Y242cm14bWVwZmNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMAsQuuEeQIwm4eSVJ/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3cWhvZTRhNWptOHN2bGRyYm9neXMwYXY3Y242cm14bWVwZmNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMAsQuuEeQIwm4eSVJ/giphy.gif" alt="gold sparkle" width="40"/>
+  <span style="font-size:24px; font-weight:bold;"> Favorite color: Gold  </span>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM3cWhvZTRhNWptOHN2bGRyYm9neXMwYXY3Y242cm14bWVwZmNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kMAsQuuEeQIwm4eSVJ/giphy.gif" alt="gold sparkle" width="40"/>
+</p>
 -------------------
 
 
