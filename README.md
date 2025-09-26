@@ -1,8 +1,8 @@
 # READ ME
-"Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
+> “Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
 <div align="center">
 
-[![Pronouns](https://img.shields.io/badge/Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
+[![Click for Pronuns!](https://img.shields.io/badge/Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
 
 ## About
 # Personality (MBTI)   
