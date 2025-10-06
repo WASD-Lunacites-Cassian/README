@@ -42,3 +42,6 @@ https://www.youtube.com/@XxLunarii
 -----
 
 Last Edited on: 09/25/2025
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Badge"/>
+</p>
