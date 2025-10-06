@@ -43,9 +43,5 @@ https://www.youtube.com/@XxLunarii
 
 Last Edited on: 09/25/2025
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=WASD-Lunacites-Cassian&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=WASD-Lunacites-Cassian&style=flat-square" alt="Profile View Counter">
 </p>
-  <p align="right">
-    ![](https://komarev.com/ghpvc/?username=WASD-Lunacites-Cassian)
-  </p>
-
