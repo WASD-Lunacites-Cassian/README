@@ -1,7 +1,6 @@
 # READ ME
 "Who controls the past controls the future. Who controls the present controls the past.” — 1984, George Orwell
 <div align="center">
-![COMMISSION](https://github.com/user-attachments/assets/3aab0a70-53ac-403f-9e33-79561c7ff4a9)
 
 [![Click for Pronouns](https://img.shields.io/badge/Click%20for%20Pronouns-WASD-FFD700?style=for-the-badge)](https://pronouns.cc/@WASD)
 
@@ -34,8 +33,8 @@ Only Avaliable Through PonyTown
 -------------------
 MY BEAUTIFUL OC MADE BY
 https://www.youtube.com/@XxLunarii
-![COMMISSION](https://github.com/user-attachments/assets/3aab0a70-53ac-403f-9e33-79561c7ff4a9)
-# ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+# <img width="3000" height="2800" alt="Untitled1143_20251006135750" src="https://github.com/user-attachments/assets/9fef5ef5-8f14-40d7-bf92-84806ea4e453" />
+
 
 
 </div>
